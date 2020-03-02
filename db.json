@@ -1,7 +1,1 @@
-{ 
-  'persons': 
-  [
-   { 'test' : 'test 1' },
-   { 'test' : 'test 2' }
-  ]  
-}
+{"persons": [{"test" : "test 1" }, { "test" : "test 2" }]}
